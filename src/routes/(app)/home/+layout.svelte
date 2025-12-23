@@ -11,9 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>
-		{$i18n.t('Home')} • {$WEBUI_NAME}
-	</title>
+	<title>Novin Chat</title>
 </svelte:head>
 
 <div

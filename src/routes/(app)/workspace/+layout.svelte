@@ -44,9 +44,7 @@
 </script>
 
 <svelte:head>
-	<title>
-		{$i18n.t('Workspace')} • {$WEBUI_NAME}
-	</title>
+	<title>Novin Chat</title>
 </svelte:head>
 
 {#if loaded}

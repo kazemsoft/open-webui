@@ -183,9 +183,7 @@
 </script>
 
 <svelte:head>
-	<title>
-		{`${$WEBUI_NAME}`}
-	</title>
+	<title>Novin Chat</title>
 </svelte:head>
 
 <OnBoarding

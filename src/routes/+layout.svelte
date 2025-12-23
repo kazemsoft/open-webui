@@ -808,15 +808,15 @@
 </script>
 
 <svelte:head>
-	<title>{$WEBUI_NAME}</title>
-	<link crossorigin="anonymous" rel="icon" href="{WEBUI_BASE_URL}/static/favicon.png" />
+	<title>Novin Chat</title>
+	<link crossorigin="anonymous" rel="icon" href="/favicon.png" />
 
-	<meta name="apple-mobile-web-app-title" content={$WEBUI_NAME} />
-	<meta name="description" content={$WEBUI_NAME} />
+	<meta name="apple-mobile-web-app-title" content="Novin Chat" />
+	<meta name="description" content="Novin Chat" />
 	<link
 		rel="search"
 		type="application/opensearchdescription+xml"
-		title={$WEBUI_NAME}
+		title="Novin Chat"
 		href="/opensearch.xml"
 		crossorigin="use-credentials"
 	/>

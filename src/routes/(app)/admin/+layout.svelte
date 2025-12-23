@@ -21,9 +21,7 @@
 </script>
 
 <svelte:head>
-	<title>
-		{$i18n.t('Admin Panel')} • {$WEBUI_NAME}
-	</title>
+	<title>Novin Chat</title>
 </svelte:head>
 
 {#if loaded}
